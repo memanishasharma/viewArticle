@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewArticle</string>
+    <string name="Description">Website Description</string>
+    <string name="Title">Website Title</string>
+    <string name="action_webview">Switch to webview</string>
+    <string name="action_articleview">Switch to Article View</string>
+</resources>
